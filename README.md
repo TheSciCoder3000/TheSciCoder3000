@@ -38,11 +38,18 @@
 ###
 
 <p align="left">
-  Hey there my name is John Juvi De Villa<br>
-  <br>I'm a Computer Engineer graduate with knowledge in both Hardware and Software engineering.
-  I specialize in software development, particularly frontend web development with Reactjs. I have
-  started my software development journey back in 2020 and I have gained multiple experiences over 
-  the years in the field of software engineering.
+  <b>Hi, I’m John Juvi De Villa</b> — <i>a Computer Engineer and Web Developer.</i><br><br>
+  I am a computer engineer graduate with specialization in Software engineering, 
+  but my true passion lies in crafting exceptional digital experiences. Since starting my 
+  software development journey in 2020, I’ve specialized in frontend web development with 
+  React.js, building fast, responsive, and visually engaging interfaces.<br><br>
+  
+  Over the years, I’ve worked on diverse projects, refining my skills in building functional, 
+  user-friendly web applications. My goal is simple: to deliver clean, efficient, 
+  and scalable solutions for my clients and employers.<br><br>
+  
+  If you’re looking for a developer who has the technical skills needed to turn your ideas into 
+  reality, I’d be happy to help bring your vision to life.
 </p>
 
 <br>
